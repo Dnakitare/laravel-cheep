@@ -11,4 +11,6 @@
 |
 */
 
-Route::get('/', 'homeController@index');
+Route::get('/', 'HomeController@index');
+
+Route::post('/create', 'MessageController@create');
