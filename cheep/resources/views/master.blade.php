@@ -9,7 +9,7 @@
     </head>
     <body>
 
-        <img src="../../public/images/cheep.png" alt="Cheep logo">
+        <img src="{{asset('/images/cheep.png')}}" alt="Cheep logo">
 
         <h1>Daniel Nakitare's<br>Bankrupt Twitter Clone</h1>
 
